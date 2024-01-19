@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   photo_view: ^0.14.0
   syncfusion_flutter_pdfviewer: ^24.1.46
+  dio: ^5.4.0
+  flutter_file_downloader: ^1.2.1
   
 
 
